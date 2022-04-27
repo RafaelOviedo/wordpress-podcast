@@ -118,7 +118,7 @@ You will see this screen:
 ```
 ![phpMyAdmin](./exampleImages/wordpress11.jpg)
  ```
-Here just upload the xml file in the 'database' foler inside this project named
+Here just upload the xml file in the 'database' folder inside this project named
 example-database.xml
 
 Then you will see this screen:
