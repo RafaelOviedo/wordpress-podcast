@@ -100,4 +100,8 @@ Here activate the following plugins:
 
 After this you have to go to CPT UI -> Tools, you will see this screen:
 ```
-![phpMyAdmin](./exampleImages/wordpress8.jpeg)
+![phpMyAdmin](./exampleImages/wordpress9.jpeg)
+ ```
+Here in the input under the label 'Import Post Types' you will have to paste
+the text that i left in the 'database' folder inside this project, with the name of custom-type-model.json
+```
