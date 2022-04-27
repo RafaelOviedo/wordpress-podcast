@@ -52,3 +52,52 @@ you will see this screen:
 Choose English and press continue, now will see this:
 ```
 ![phpMyAdmin](./exampleImages/wordpress2.jpeg)
+ ```
+Press let's got, next screen should be:
+```
+![phpMyAdmin](./exampleImages/wordpress3.jpeg)
+ ```
+Here you will have to fill up the inputs as follows:
+
+-Database name: challengedb
+-Username: root
+-Password: root
+-Database host: localhost
+
+then press submit
+
+NOTE:
+You can always check ths data for mysql in this route:
+http://localhost:8888/MAMP/ in the section of mysql
+END OF NOTE
+
+Then you will see this screen:
+```
+![phpMyAdmin](./exampleImages/wordpress8.jpeg)
+ ```
+Here, fill up the inputs with the data you want, here i leave some for example
+```
+![phpMyAdmin](./exampleImages/wordpress4.jpeg)
+ ```
+Press Run the installation and then will ask you to log in
+```
+![phpMyAdmin](./exampleImages/wordpress5.jpeg)
+ ```
+Once you are in (localhost:8888) you will see this screen:
+```
+![phpMyAdmin](./exampleImages/wordpress6.jpeg)
+ ```
+Here you will have to go to the left sidebar and click in plugins
+```
+![phpMyAdmin](./exampleImages/wordpress7.jpeg)
+ ```
+Here activate the following plugins:
+
+-Advance custom fields
+-Contact Form 7
+-Custom post type UI
+-Wordpress importer (if this doesn't shows you can activate later)
+
+After this you have to go to CPT UI -> Tools, you will see this screen:
+```
+![phpMyAdmin](./exampleImages/wordpress8.jpeg)
