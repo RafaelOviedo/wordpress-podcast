@@ -48,10 +48,10 @@
 
 		<item>
 		<title><![CDATA[podcast post settings]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field-group&#038;p=8</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field-group&#038;p=8</link>
 		<pubDate>Sat, 23 Apr 2022 15:34:25 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field-group&#038;p=8</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field-group&#038;p=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:8:"podcasts";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:1;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[podcast-post-settings]]></excerpt:encoded>
@@ -76,10 +76,10 @@
 							</item>
 					<item>
 		<title><![CDATA[subTitle]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=9</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=9</link>
 		<pubDate>Sat, 23 Apr 2022 15:36:03 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=9</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[subtitle]]></excerpt:encoded>
@@ -100,10 +100,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Author]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=19</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=19</link>
 		<pubDate>Sat, 23 Apr 2022 16:10:38 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=19</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[author]]></excerpt:encoded>
@@ -124,10 +124,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Season]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=20</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=20</link>
 		<pubDate>Sat, 23 Apr 2022 16:16:04 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=20</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[season]]></excerpt:encoded>
@@ -148,10 +148,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Date]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=21</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=21</link>
 		<pubDate>Sat, 23 Apr 2022 16:16:17 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=21</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[date]]></excerpt:encoded>
@@ -172,10 +172,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Subject]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=22</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=22</link>
 		<pubDate>Sat, 23 Apr 2022 16:16:34 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=22</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[subject]]></excerpt:encoded>
@@ -196,10 +196,10 @@
 														</item>
 					<item>
 		<title><![CDATA[blogposts post settings]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field-group&#038;p=23</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field-group&#038;p=23</link>
 		<pubDate>Sat, 23 Apr 2022 16:22:26 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field-group&#038;p=23</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field-group&#038;p=23</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:9:"blogposts";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:1;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[blogposts-post-settings]]></excerpt:encoded>
@@ -224,10 +224,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Author]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=24</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=24</link>
 		<pubDate>Sat, 23 Apr 2022 16:23:00 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=24</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[author]]></excerpt:encoded>
@@ -248,10 +248,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Date]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=25</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=25</link>
 		<pubDate>Sat, 23 Apr 2022 16:23:20 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=25</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=25</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[date]]></excerpt:encoded>
@@ -272,10 +272,10 @@
 														</item>
 					<item>
 		<title><![CDATA[subTitle]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=28</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=28</link>
 		<pubDate>Sat, 23 Apr 2022 16:24:52 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=28</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[subtitle]]></excerpt:encoded>
@@ -296,10 +296,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Blog owner]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=30</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=30</link>
 		<pubDate>Sat, 23 Apr 2022 16:30:35 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=30</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[blog_owner]]></excerpt:encoded>
@@ -320,7 +320,7 @@
 														</item>
 					<item>
 		<title><![CDATA[toby-elliott-Nqdx6-LW4VE-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/toby-elliott-nqdx6-lw4ve-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/toby-elliott-nqdx6-lw4ve-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:09 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/toby-elliott-Nqdx6-LW4VE-unsplash.jpg</guid>
@@ -357,7 +357,7 @@
 							</item>
 					<item>
 		<title><![CDATA[timon-studler-ABGaVhJxwDQ-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/timon-studler-abgavhjxwdq-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/timon-studler-abgavhjxwdq-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:10 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/timon-studler-ABGaVhJxwDQ-unsplash.jpg</guid>
@@ -394,7 +394,7 @@
 							</item>
 					<item>
 		<title><![CDATA[rohit-tandon-9wg5jCEPBsw-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/rohit-tandon-9wg5jcepbsw-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/rohit-tandon-9wg5jcepbsw-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:11 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/rohit-tandon-9wg5jCEPBsw-unsplash.jpg</guid>
@@ -431,10 +431,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Home Page settings]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field-group&#038;p=55</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field-group&#038;p=55</link>
 		<pubDate>Sat, 23 Apr 2022 23:46:41 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field-group&#038;p=55</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field-group&#038;p=55</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:4:"page";s:8:"operator";s:2:"==";s:5:"value";s:2:"53";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:1;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[home-page-settings]]></excerpt:encoded>
@@ -459,10 +459,10 @@
 							</item>
 					<item>
 		<title><![CDATA[label]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=56</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=56</link>
 		<pubDate>Sat, 23 Apr 2022 23:52:25 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=56</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=56</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[label]]></excerpt:encoded>
@@ -483,10 +483,10 @@
 														</item>
 					<item>
 		<title><![CDATA[title]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=57</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=57</link>
 		<pubDate>Sat, 23 Apr 2022 23:53:53 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=57</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=57</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[title]]></excerpt:encoded>
@@ -507,10 +507,10 @@
 														</item>
 					<item>
 		<title><![CDATA[subtitle]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=58</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=58</link>
 		<pubDate>Sat, 23 Apr 2022 23:54:13 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=58</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=58</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[subtitle]]></excerpt:encoded>
@@ -531,10 +531,10 @@
 														</item>
 					<item>
 		<title><![CDATA[label2]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field&#038;p=59</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=59</link>
 		<pubDate>Sat, 23 Apr 2022 23:56:05 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field&#038;p=59</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field&#038;p=59</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:10:{s:4:"type";s:4:"text";s:12:"instructions";s:0:"";s:8:"required";i:0;s:17:"conditional_logic";i:0;s:7:"wrapper";a:3:{s:5:"width";s:0:"";s:5:"class";s:0:"";s:2:"id";s:0:"";}s:13:"default_value";s:0:"";s:11:"placeholder";s:0:"";s:7:"prepend";s:0:"";s:6:"append";s:0:"";s:9:"maxlength";s:0:"";}]]></content:encoded>
 		<excerpt:encoded><![CDATA[label2]]></excerpt:encoded>
@@ -555,10 +555,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Gallery]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=acf-field-group&#038;p=67</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=acf-field-group&#038;p=67</link>
 		<pubDate>Sun, 24 Apr 2022 23:07:35 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=acf-field-group&#038;p=67</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=acf-field-group&#038;p=67</guid>
 		<description></description>
 		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:4:"post";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[gallery]]></excerpt:encoded>
@@ -583,10 +583,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>http://localhost:8888/wordpress/index.php/sample-page/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/sample-page/</link>
 		<pubDate>Sat, 23 Apr 2022 00:54:44 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?page_id=2</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
@@ -605,7 +605,7 @@
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://localhost:8888/wordpress/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="http://localhost:8888/wordpress-podcast/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
@@ -629,10 +629,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>http://localhost:8888/wordpress/?page_id=3</link>
+		<link>http://localhost:8888/wordpress-podcast/?page_id=3</link>
 		<pubDate>Sat, 23 Apr 2022 00:54:44 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?page_id=3</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost:8888/wordpress.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -657,10 +657,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Podcast 1]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/</link>
 		<pubDate>Sat, 23 Apr 2022 12:44:54 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=podcasts&#038;p=5</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=podcasts&#038;p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
@@ -747,10 +747,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Podcast 2]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-2/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-2/</link>
 		<pubDate>Sat, 23 Apr 2022 15:45:11 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=podcasts&#038;p=10</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=podcasts&#038;p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
@@ -837,10 +837,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Podcast 3]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-3/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-3/</link>
 		<pubDate>Sat, 23 Apr 2022 15:47:09 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=podcasts&#038;p=11</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=podcasts&#038;p=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
@@ -927,10 +927,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Podcast 4]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-4/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-4/</link>
 		<pubDate>Sat, 23 Apr 2022 16:03:28 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=podcasts&#038;p=15</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=podcasts&#038;p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
@@ -1017,10 +1017,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Blogpost 1]]></title>
-		<link>http://localhost:8888/wordpress/index.php/blogposts/blogpost-1/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/blogposts/blogpost-1/</link>
 		<pubDate>Sat, 23 Apr 2022 16:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=blogposts&#038;p=29</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=blogposts&#038;p=29</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
@@ -1115,10 +1115,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Blogpost 2]]></title>
-		<link>http://localhost:8888/wordpress/index.php/blogposts/blogpost-2/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/blogposts/blogpost-2/</link>
 		<pubDate>Sat, 23 Apr 2022 16:35:06 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=blogposts&#038;p=33</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=blogposts&#038;p=33</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
@@ -1205,10 +1205,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Blogpost 3]]></title>
-		<link>http://localhost:8888/wordpress/index.php/blogposts/blogpost-3/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/blogposts/blogpost-3/</link>
 		<pubDate>Sat, 23 Apr 2022 16:39:16 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=blogposts&#038;p=35</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=blogposts&#038;p=35</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
@@ -1295,10 +1295,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Blogpost 4]]></title>
-		<link>http://localhost:8888/wordpress/index.php/blogposts/blogpost-4/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/blogposts/blogpost-4/</link>
 		<pubDate>Sat, 23 Apr 2022 16:42:39 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=blogposts&#038;p=38</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=blogposts&#038;p=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
@@ -1385,10 +1385,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Blogpost 5]]></title>
-		<link>http://localhost:8888/wordpress/index.php/blogposts/blogpost-5/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/blogposts/blogpost-5/</link>
 		<pubDate>Sat, 23 Apr 2022 16:46:39 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=blogposts&#038;p=40</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=blogposts&#038;p=40</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
@@ -1475,7 +1475,7 @@
 							</item>
 					<item>
 		<title><![CDATA[oliver-paaske-66BgmIglPhM-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/oliver-paaske-66bgmiglphm-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/oliver-paaske-66bgmiglphm-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:12 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/oliver-paaske-66BgmIglPhM-unsplash.jpg</guid>
@@ -1512,7 +1512,7 @@
 							</item>
 					<item>
 		<title><![CDATA[lukasz-szmigiel-jFCViYFYcus-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/lukasz-szmigiel-jfcviyfycus-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/lukasz-szmigiel-jfcviyfycus-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:12 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg</guid>
@@ -1549,7 +1549,7 @@
 							</item>
 					<item>
 		<title><![CDATA[jeremy-thomas-E0AHdsENmDg-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/jeremy-thomas-e0ahdsenmdg-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/jeremy-thomas-e0ahdsenmdg-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:13 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/jeremy-thomas-E0AHdsENmDg-unsplash.jpg</guid>
@@ -1586,7 +1586,7 @@
 							</item>
 					<item>
 		<title><![CDATA[fotis-fotopoulos-DuHKoV44prg-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/fotis-fotopoulos-duhkov44prg-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/fotis-fotopoulos-duhkov44prg-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:14 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg</guid>
@@ -1623,7 +1623,7 @@
 							</item>
 					<item>
 		<title><![CDATA[dea-piratedea-nYhorhAuQpQ-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/dea-piratedea-nyhorhauqpq-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/dea-piratedea-nyhorhauqpq-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:15 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/dea-piratedea-nYhorhAuQpQ-unsplash.jpg</guid>
@@ -1660,7 +1660,7 @@
 							</item>
 					<item>
 		<title><![CDATA[anastasia-taioglou-CTivHyiTbFw-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/anastasia-taioglou-ctivhyitbfw-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/anastasia-taioglou-ctivhyitbfw-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:16 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/anastasia-taioglou-CTivHyiTbFw-unsplash.jpg</guid>
@@ -1697,7 +1697,7 @@
 							</item>
 					<item>
 		<title><![CDATA[aarn-giri-IBhsB71R97k-unsplash]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-1/aarn-giri-ibhsb71r97k-unsplash/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-1/aarn-giri-ibhsb71r97k-unsplash/</link>
 		<pubDate>Sat, 23 Apr 2022 16:58:17 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/aarn-giri-IBhsB71R97k-unsplash.jpg</guid>
@@ -1734,10 +1734,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Home Page]]></title>
-		<link>http://localhost:8888/wordpress/index.php/home-page/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/home-page/</link>
 		<pubDate>Sat, 23 Apr 2022 23:46:15 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?page_id=53</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?page_id=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1798,7 +1798,7 @@
 							</item>
 					<item>
 		<title><![CDATA[micImage]]></title>
-		<link>http://localhost:8888/wordpress/index.php/home-page/micimage/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/home-page/micimage/</link>
 		<pubDate>Sun, 24 Apr 2022 02:08:42 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/wp-content/uploads/2022/04/micImage.png</guid>
@@ -1835,10 +1835,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>http://localhost:8888/wordpress/index.php/2022/04/23/hello-world/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/2022/04/23/hello-world/</link>
 		<pubDate>Sat, 23 Apr 2022 00:54:44 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?p=1</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
@@ -1878,10 +1878,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 					</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost:8888/wordpress/index.php/2022/04/23/wp-global-styles-twentytwentytwo/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/2022/04/23/wp-global-styles-twentytwentytwo/</link>
 		<pubDate>Sat, 23 Apr 2022 12:33:15 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/index.php/2022/04/23/wp-global-styles-twentytwentytwo/</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/index.php/2022/04/23/wp-global-styles-twentytwentytwo/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1903,10 +1903,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 						</item>
 					<item>
 		<title><![CDATA[Podcast 5]]></title>
-		<link>http://localhost:8888/wordpress/index.php/podcasts/podcast-5/</link>
+		<link>http://localhost:8888/wordpress-podcast/index.php/podcasts/podcast-5/</link>
 		<pubDate>Sat, 23 Apr 2022 16:04:46 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=podcasts&#038;p=17</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=podcasts&#038;p=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
@@ -1993,10 +1993,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title><![CDATA[Contact form 1]]></title>
-		<link>http://localhost:8888/wordpress/?post_type=wpcf7_contact_form&#038;p=68</link>
+		<link>http://localhost:8888/wordpress-podcast/?post_type=wpcf7_contact_form&#038;p=68</link>
 		<pubDate>Tue, 26 Apr 2022 00:30:04 +0000</pubDate>
 		<dc:creator><![CDATA[rafael]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/wordpress/?post_type=wpcf7_contact_form&#038;p=68</guid>
+		<guid isPermaLink="false">http://localhost:8888/wordpress-podcast/?post_type=wpcf7_contact_form&#038;p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[<label> Your name
     [text* your-name] </label>
