@@ -89,7 +89,7 @@ Once you are in (localhost:8888) you will see this screen:
  ```
 Here you will have to go to the left sidebar and click in plugins
 ```
-![phpMyAdmin](./exampleImages/wordpress7.jpeg)
+![phpMyAdmin](./exampleImages/wordpress7.jpg)
  ```
 Here activate the following plugins:
 
