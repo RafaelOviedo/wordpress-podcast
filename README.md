@@ -25,8 +25,7 @@ Something like this:
 ![mamp2](./exampleImages/mampExample2server.jpg)
 ## Database config
 ```
-Now you have your server ready. You can check by starting your server
-and going to localhost:8888 (if that's your chosen port)
+Now you have your server ready.
 
 Next is to configure a database for the project.
 You need to have MySql installed.
