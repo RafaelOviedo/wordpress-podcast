@@ -40,7 +40,15 @@ you will see something like this:
 ![phpMyAdmin](./exampleImages/phpmyadmin.jpg)
 ```
 You will have to click on 'New' in the left sidebar, this will get you
-to the databases menu, then just write your database name (IN THIS CASE challengedb, as this is the name i choose for it and is in the wp-config.php
-file) and press 'Create'. That's  it for now
-
+to the databases menu, then just write your database name (IN THIS CASE challengedb, as this is the name we will use in the next step) and press 'Create'. That's  it for now
 ```
+## Wordpress config
+ ```
+Go to http://localhost:8888/
+you will see this screen: 
+```
+![phpMyAdmin](./exampleImages/wordpress1.jpeg)
+ ```
+Choose English and press continue, now will see this:
+```
+![phpMyAdmin](./exampleImages/wordpress2.jpeg)
