@@ -111,7 +111,7 @@ something like this:
 ```
 ![phpMyAdmin](./exampleImages/wordpress10.jpeg)
  ```
-You have to click in 'install now' in the wordpress puling and then click on
+You have to click in 'install now' in the wordpress plugin and then click on
 Run importer
 
 You will see this screen:
