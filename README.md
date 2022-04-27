@@ -110,3 +110,26 @@ And final will be going to Tools -> Import in the left sidebar as well, you will
 something like this:
 ```
 ![phpMyAdmin](./exampleImages/wordpress10.jpeg)
+ ```
+You have to click in 'install now' in the wordpress puling and then click on
+Run importer
+
+You will see this screen:
+```
+![phpMyAdmin](./exampleImages/wordpress11.jpg)
+ ```
+Here just upload the xml file in the 'database' foler inside this project named
+example-database.xml
+
+Then you will see this screen:
+```
+![phpMyAdmin](./exampleImages/wordpress12.jpeg)
+ ```
+Choose your user, click the check box ('Download and import file attachments') and
+click Submit
+
+That was the last step
+
+NOW you should be seeing all the data displaying in your front-end in the
+localhost:8080
+```
