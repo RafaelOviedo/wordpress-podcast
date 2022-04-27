@@ -13,13 +13,12 @@ click on 'MAMP' -> Preferences -> Ports you should see something like this:
 ```
 ![mamp](./exampleImages/mampExample.jpg)
 ```
-In the input that says 'MySql Port', should be the port number that phpMyAdmin will
-assing to it, like this:
+In the input that says 'MySql Port' in the previous image, should be the port number that phpMyAdmin will assing to it, like this:
 ```
 ![mamp](./exampleImages/phpMyAdminPort.jpeg)
 ```
 Now you have to go to 'MAMP' -> Preferences -> Server
-Here, you have to choose the parent folder where you cloned the repo,
+Here, you have to choose the folder where you cloned the repo,
 then press ok.
 Something like this:
 ```
@@ -32,10 +31,9 @@ and going to localhost:8888 (if that's your chosen port)
 Next is to configure a database for the project.
 You need to have MySql installed.
 You can install it from here: https://www.mysql.com/
-Once you have it, you can set your data base from PHPMyAdmin page or
-directly from the mySql Shell.
+Once you have it, you can set your data base from PHPMyAdmin page
 
-If you choose create your database from PhpMyAdmin, enter this url:
+To go to PhpMyAdmin, enter this url:
 http://localhost:8888/phpMyAdmin/?lang=en
 you will see something like this:
 ```
