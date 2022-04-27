@@ -13,6 +13,11 @@ click on 'MAMP' -> Preferences -> Ports you should see something like this:
 ```
 ![mamp](./exampleImages/mampExample.jpg)
 ```
+In the input that says 'MySql Port', should be the port number that phpMyAdmin will
+assing to it, like this:
+```
+![mamp](./exampleImages/phpMyAdminPort.jpeg)
+```
 Now you have to go to 'MAMP' -> Preferences -> Server
 Here, you have to choose the parent folder where you cloned the repo,
 then press ok.
