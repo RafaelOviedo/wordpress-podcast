@@ -17,3 +17,29 @@ Here, you have to choose the parent folder where you cloned the repo
 Something like this:
 ```
 ![mamp2](./exampleImages/mampExample2server.jpg)
+## Database config
+```
+Now you have your server ready. You can check by starting your server
+and going to localhost:8888 (if that's your chosen port)
+
+Next is to configure a database for the project.
+You need to have MySql installed.
+Once you have it, you can set your data base from PHPMyAdmin page or
+directly from the mySql Shell.
+
+If you choose create your database from PhpMyAdmin, enter this url:
+http://localhost:8888/phpMyAdmin/?lang=en
+you will see something like this:
+```
+![phpMyAdmin](./exampleImages/phpmyadmin.jpg)
+```
+You will have to click on 'New' in the left sidebar, this will get you
+to the databases menu, then just write your database name (IN THIS CASE challengedb, as this is the name i choose for it and is in the wp-config.php
+file) and press 'Create'. That's  it for now
+
+```
+## Creating database in MySql Shell
+```
+If you choose
+
+```
