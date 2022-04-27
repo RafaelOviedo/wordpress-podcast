@@ -16,4 +16,4 @@ Now you have to go to 'MAMP' -> Preferences -> Server
 Here, you have to choose the parent folder where you cloned the repo
 Something like this:
 ```
-![mamp2](./exampleImages/mampExample2.jpg)
+![mamp2](./exampleImages/mampExample2server.jpg)
